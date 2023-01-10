@@ -13,3 +13,32 @@
     left: 30%;
     transform: translate(-20%, -20%);
 }
+.donate-section{
+    text-align: center;
+}
+.link-button{
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 10px;
+    color: burlywood;
+    background-color: brown;
+}
+.Amount{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.Decoration{
+    color: darkred;
+    border-style: solid;
+    padding: 10px 30px;
+}
+.textarea-part{
+    text-align: center;
+}
+.textarea{
+    border: none;
+    resize: none;
+    outline: none;
+}
