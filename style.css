@@ -5,3 +5,11 @@
     height: 650px;
     background-position: center;
 }
+.Donate-Now{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate(-20%, -20%);
+}
