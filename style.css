@@ -57,3 +57,55 @@
     box-shadow: 10px 10px 40px rgba(105, 52, 57, 0.041);
     background-color: rgb(16, 162, 199);
 }
+.form-area{
+    width: 30%;
+    margin-left: 25%;
+    margin-right: 10%;
+    padding: 10%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 35px rgb(71, 203, 212);
+    background-color: rgb(87, 6, 68);  
+}
+.submit-button{
+    background-color: red;
+    color: white;
+    padding: 5px 20px;
+    border-style: solid;
+}
+hr{
+    width: 40%;
+}
+h1{
+    display: block;
+    font-size: 75px;
+    margin-block-start: 15px;
+    margin-block-end: 15px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: hsla(298, 67%, 78%, 0.151);
+    color: rgb(53, 140, 199);
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+    display: block;
+}
+section{
+    display: block;
+}
+.email-section{
+    text-decoration: none;
+}
