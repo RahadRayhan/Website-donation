@@ -42,3 +42,18 @@
     resize: none;
     outline: none;
 }
+.Third-section{
+    text-align: center;
+}
+.plan-container{
+    display: flex;
+}
+#Donation-item{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3%;
+    border-radius: 10%;
+    box-shadow: 10px 10px 40px rgba(105, 52, 57, 0.041);
+    background-color: rgb(16, 162, 199);
+}
